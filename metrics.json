@@ -1,0 +1,21 @@
+{
+  "planned": 40,
+  "pass": 40,
+  "fail": 0,
+  "blocked": 0,
+  "pending": 0,
+  "fully_evaluated_coverage": 1.0,
+  "pass_rate_evaluated_only": 1.0,
+  "attempted_including_partial_or_blocked": 40,
+  "supplemental_accessibility_issues": 1,
+  "accessible_original_assets": 5,
+  "physical_mobile_devices": null,
+  "auditory_listening_checks_completed": null,
+  "date": "2026-11-24",
+  "provenance": "AI-assisted retest plus user-reported manual verification; not 40 independently observed checks",
+  "decision": "Execution recorded complete using 20 Codex-observed and 20 user-reported passes; one supplemental defect remains open",
+  "codex_observed_passes": 20,
+  "user_reported_manual_passes": 20,
+  "physical_mobile_testing": "User confirms testing on a real phone; device count/model and browser not supplied",
+  "auditory_listening_checks": "User reports audible-control and audio-quality checks passed on all five assets; Codex did not listen"
+}

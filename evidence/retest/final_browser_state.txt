@@ -1,0 +1,403 @@
+- banner:
+  - button "ICC Home":
+    - text: ICC Home
+  - navigation:
+    - img "placeholder"
+    - button "Toggle menu":
+    - link "t20-logo-horizontal-light":
+      - /url: /tournaments/t20cricketworldcup/
+      - img "t20-logo-horizontal-light"
+    - link "Home":
+      - /url: /tournaments/t20cricketworldcup
+      - generic: Home
+    - link "Matches":
+      - /url: /tournaments/t20cricketworldcup/matches
+      - generic: Matches
+    - link "Standings":
+      - /url: /tournaments/t20cricketworldcup/standings
+      - generic: Standings
+    - link "stats-tracker":
+      - /url: /tournaments/t20cricketworldcup/stats-tracker
+      - generic: Stats Tracker
+    - link "News":
+      - /url: /tournaments/t20cricketworldcup/news
+      - generic: News
+    - link "videos":
+      - /url: /tournaments/t20cricketworldcup/videos
+      - generic: Videos
+    - link "Teams":
+      - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/teams
+      - generic: Teams
+    - link "Stats":
+      - /url: /tournaments/t20cricketworldcup/stats/
+      - generic: Stats
+    - link "shop":
+      - /url: /tournaments/t20cricketworldcup/shop
+      - generic: Shop
+    - link "Fan Passport":
+      - /url: https://www.icc-cricket.com/fan-passport
+      - generic: Fan Passport
+    - link "Buy Tickets":
+      - /url: https://tickets.t20worldcup.com/
+      - generic: Buy Tickets
+    - link "Player of The Tournament":
+      - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/pott
+      - generic: Player of The Tournament
+    - link "perfect-delivery":
+      - /url: /tournaments/t20cricketworldcup/perfect-delivery
+      - generic: perfect-delivery
+    - link "About":
+      - /url: https://www.icc-cricket.com/about
+      - generic: about
+    - link "facebook social icon":
+      - /url: https://www.facebook.com/icc
+    - link "youtube social icon":
+      - /url: https://www.youtube.com/@ICC
+    - link "instagram social icon":
+      - /url: https://www.Instagram.com/icc/
+    - link "twitter social icon":
+      - /url: https://x.com/ICC
+    - button "t20-logo-horizontal-light":
+      - link "t20-logo-horizontal-light":
+        - /url: /tournaments/t20cricketworldcup/
+        - img "t20-logo-horizontal-light"
+    - link "icc-home":
+      - /url: /index
+      - img "icc-home"
+      - generic: ICC Home
+    - link "ICC Women's Under-19 T20 World Cup, 2027":
+      - /url: /tournaments/icc-women-s-under-19-t20-world-cup-2027
+      - img "ICC Women's Under-19 T20 World Cup, 2027"
+      - generic: ICC Women's Under-19 T20 World Cup, 2027
+    - link "icc-cricket-world-cup-2027":
+      - /url: /tournaments/icc-cricket-world-cup-2027
+      - img "icc-cricket-world-cup-2027"
+      - generic: ICC Cricket World Cup, 2027
+    - link "w-emer-nations-2026":
+      - /url: /tournaments/icc-women-s-emerging-nations-trophy-2026
+      - img "w-emer-nations-2026"
+      - generic: ICC Women's Emerging Nations Trophy, 2026
+    - link "icc-wtc":
+      - /url: /tournaments/world-test-championship
+      - img "icc-wtc"
+      - generic: ICC World Test Championship
+    - link "icc-under-19-women-s-t20-asia-world-cup-qualifier-2026":
+      - /url: /tournaments/icc-under-19-women-s-t20-asia-world-cup-qualifier-2026
+      - img "icc-under-19-women-s-t20-asia-world-cup-qualifier-2026"
+      - generic: ICC Under-19 Women's T20 Asia World Cup Qualifier, 2026
+    - link "icc-w-t20-wc-2026":
+      - /url: /tournaments/womens-t20-worldcup-2026
+      - img "icc-w-t20-wc-2026"
+      - generic: ICC Women's T20 World Cup, 2026
+    - link "icc-women-s-t20i-challenge-trophy-2026":
+      - /url: /tournaments/icc-women-s-t20i-challenge-trophy-2026
+      - img "icc-women-s-t20i-challenge-trophy-2026"
+      - generic: ICC Women's T20I Challenge Trophy, 2026
+    - link "icc-m-t20-2026":
+      - /url: /tournaments/mens-t20-world-cup-2026
+      - img "icc-m-t20-2026"
+      - generic: ICC Men's T20 World Cup, 2026
+    - link "icc-w-cwc-2025":
+      - /url: /tournaments/womens-cricket-worldcup-2025
+      - img "icc-w-cwc-2025"
+      - generic: ICC Women's Cricket World Cup, 2025
+    - link "icc-champions-trophy":
+      - /url: /tournaments/champions-trophy-2025
+      - img "icc-champions-trophy"
+      - generic: ICC Champions Trophy, 2025
+    - link "icc-cwc-challenge-league-a-b":
+      - /url: /tournaments/cwc-challenge-league/matches
+      - img "icc-cwc-challenge-league-a-b"
+      - generic: ICC CWC Challenge League A and B, 2024-26
+    - link "icc-cwc-league-2":
+      - /url: /tournaments/icc-cricket-world-cup-league-2
+      - img "icc-cwc-league-2"
+      - generic: ICC Cricket World Cup League 2, 2023-27
+    - link "icc-womens-championship":
+      - /url: /tournaments/icc-womens-championship
+      - img "icc-womens-championship"
+      - generic: ICC Women's Championship
+    - link "See All Events":
+      - /url: /icc-events
+      - generic: See All Events
+    - link "Matches":
+      - /url: /tournaments/t20cricketworldcup/matches
+      - generic: Matches
+    - link "Standings":
+      - /url: /tournaments/t20cricketworldcup/standings
+      - generic: Standings
+    - link "News":
+      - /url: /tournaments/t20cricketworldcup/news
+      - generic: News
+    - link "Videos":
+      - /url: /tournaments/t20cricketworldcup/videos
+      - generic: Videos
+    - link "Fan Passport":
+      - /url: /fan-passport
+      - generic: Fan Passport
+    - link "Ticketing":
+      - /url: "#"
+      - generic: Ticketing
+    - link "More":
+      - /url: "#nolink"
+      - generic: More
+    - link "search":
+      - /url: /search
+      - generic: Search
+    - button "sign-in":
+      - generic: Sign in
+    - img "placeholder"
+- main:
+  - slider "00:00:00/00:00:00"
+  - button "-10":
+    - generic "-10": "10"
+  - button "Play" [active]:
+  - button "+10":
+    - generic "+10": "10"
+  - button "Unmute":
+  - slider "0"
+  - generic: 00:00:05 / 00:00:32
+  - button "Settings":
+  - button "Enter pip mode":
+  - button "Chromecast"
+  - button "Full Screen":
+  - generic: Quinton Kock - Wicket - South Africa vs India
+  - paragraph: Wickets
+  - button "Share":
+    - paragraph: Share
+  - heading "Quinton Kock - Wicket - South Africa vs India" [level=1]
+  - time: 29 June, 2024
+  - paragraph: Play Next
+  - link "Every delivery of Lockie Ferguson's incredible spell | T20WC24 ICC Men's T20 World Cup, 2024 Every delivery of Lockie Ferguson's incredible spell | T20WC24 11 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/every-delivery-of-lockie-ferguson-s-incredible-spell-t20wc24
+    - img "Every delivery of Lockie Ferguson's incredible spell | T20WC24"
+    - generic "ICC Men's T20 World Cup, 2024"
+    - generic "Every delivery of Lockie Ferguson's incredible spell | T20WC24"
+    - time: 11 November, 2024
+  - link "Staten Island Cricket Club - The secret treasure of New York | ICC Men’s T20WC 2024 ICC Men's T20 World Cup, 2024 Staten Island Cricket Club - The secret treasure of New York | ICC Men’s T20WC 2024 14 August, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/staten-island-cricket-club-the-secret-treasure-of-new-york-icc-men-s-t20wc-2024
+    - img "Staten Island Cricket Club - The secret treasure of New York | ICC Men’s T20WC 2024"
+    - generic "ICC Men's T20 World Cup, 2024"
+    - generic "Staten Island Cricket Club - The secret treasure of New York | ICC Men’s T20WC 2024"
+    - time: 14 August, 2024
+  - link "Every Hardik Pandya boundary at T20WC 2024 ICC Men's T20 World Cup, 2024 Every Hardik Pandya boundary at T20WC 2024 17 July, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/every-hardik-pandya-boundary-at-t20wc-2024
+    - img "Every Hardik Pandya boundary at T20WC 2024"
+    - generic "ICC Men's T20 World Cup, 2024"
+    - generic "Every Hardik Pandya boundary at T20WC 2024"
+    - time: 17 July, 2024
+  - link "Every Travis Head boundary at T20 World Cup 2024 ICC Men's T20 World Cup, 2024 Every Travis Head boundary at T20 World Cup 2024 17 July, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/every-travis-head-boundary-at-t20-world-cup-2024
+    - img "Every Travis Head boundary at T20 World Cup 2024"
+    - generic "ICC Men's T20 World Cup, 2024"
+    - generic "Every Travis Head boundary at T20 World Cup 2024"
+    - time: 17 July, 2024
+  - link "Every Jos Buttler boundary at T20WC 2024 Highlighted Videos Every Jos Buttler boundary at T20WC 2024 16 July, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/every-jos-buttler-boundary-at-t20wc-2024
+    - img "Every Jos Buttler boundary at T20WC 2024"
+    - generic "Highlighted Videos"
+    - generic "Every Jos Buttler boundary at T20WC 2024"
+    - time: 16 July, 2024
+  - link "Every Quinton de Kock boundary at T20WC 2024 ICC Men's T20 World Cup, 2024 Every Quinton de Kock boundary at T20WC 2024 16 July, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/every-quinton-de-kock-boundary-at-t20wc-2024
+    - img "Every Quinton de Kock boundary at T20WC 2024"
+    - generic "ICC Men's T20 World Cup, 2024"
+    - generic "Every Quinton de Kock boundary at T20WC 2024"
+    - time: 16 July, 2024
+  - iframe [id="google_ads_iframe_/182539303/CWC23_AramcoPOTM_Desktop_0"] [name="google_ads_iframe_/182539303/CWC23_AramcoPOTM_Desktop_0"]:
+    - link:
+      - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjss7w0NshquztfJA4VT6FsyehDPV8ArBpB_iwoaUSehoOXR-i8IacGETCy26WP3UqYAkR_x_A8k4V6-6j0winYFKWABcxFq80OdMmtCXwOiwkMPaa4VElIqcK0cZiakDm7XCQrP21IYQcFjOopTP6z-8Gcwf9_7Sf21oNLMnE4-J7q_3ZhxVev8Dn_UmTXMkyHDPnKndGWkz7OAMafNM-VA6KP6G-yHz5-3_aaF4oodaWw2AwJiAqJKyTs32EWYxez9f8WWrp4kXaqtZhH9sL_FjYWuyw5optxtXYF3Rkh6K6l0_eOUQoDCRiNWE90BBzT9bE3SGFvOr-uMVhPF6zOht8OwKLQYBB5mA3kXePF2zdlBT-B4OIrhky5nzRK_snP8SXD_I6tiR8ULfu1An2_e7SL_EP-WZbDOZ_vjmVsI&sai=AMfl-YRw4hc6f1qBJcVLBBNv4z4GBzrlw9zOyndkaYNTMeYO17se4NBHaHZBbgOjW3T4_CuG4MG7TAk7eo1nQ5abWng07Oi6L_VipOw6blSvmmkGcPcLkGaPCb2VyfnBy4NmqZS-s8JHaDZN6INagxJVqBVZf12aOsWdmM95braSoFRZOqJQRt-yWqQd0E327jyE_hIhM6qvTqU-zKUC5Gy5AvNXMoZNpp9I10k3bS01xyVinT3wNKjUnQEtdcvc46ILoLP8rWrqQ4i9LDxDw7agzg7pPcrb4vHtbz-JNUj919B-GjYEpKMfyBKVrd-a0v5Ea9fYzzcR61oCLLVzIHm6JNnvMHRnICsPSmOjO1svLXvLUOesLq5trT3hzsjF3luLEIMq0YJrBlTLcyD_&sig=Cg0ArKJSzB4RHTiGq6E3&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.aramco.com/
+  - heading "Latest Videos" [level=3]
+  - link "News Travis Head's all-round excellence | Semi-final 2 | CWC23 16 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/travis-head-s-all-round-excellence-semi-final-2-cwc23
+    - figure:
+      - img "icc-world-cup-2023-story-e279d649-fc3c-4576-b6fd-91b59de19ba5"
+    - generic: News
+    - paragraph: Travis Head's all-round excellence | Semi-final 2 | CWC23
+    - time: 16 November, 2024
+  - link "ICC Cricket World Cup, 2023 Virat Kohli's record ton guides India to a winning total | IND v NZ | CWC 2023 15 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/virat-kohli-s-record-ton-guides-india-to-a-winning-total-ind-v-nz-cwc-2023
+    - figure:
+      - img "icc-world-cup-2023-story-a202e8d6-e357-41ec-a708-fd02324bae25"
+    - generic: ICC Cricket World Cup, 2023
+    - paragraph: Virat Kohli's record ton guides India to a winning total | IND v NZ | CWC 2023
+    - time: 15 November, 2024
+  - link "Highlighted Videos Shami seven-for stuns New Zealand in the semi-final | CWC23 15 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/shami-seven-for-stuns-new-zealand-in-the-semi-final-cwc23
+    - figure:
+      - img "Shami v NZ"
+    - generic: Highlighted Videos
+    - paragraph: Shami seven-for stuns New Zealand in the semi-final | CWC23
+    - time: 15 November, 2024
+  - link "ICC Cricket World Cup, 2023 India v New Zealand | Semi-Final 1 | Match Highlights | CWC23 15 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/india-v-new-zealand-semi-final-1-match-highlights-cwc23
+    - figure:
+      - img "icc-world-cup-2023-story-9e9b8a9b-faec-42d6-9a3f-f00f543c2c1e"
+    - generic: ICC Cricket World Cup, 2023
+    - paragraph: India v New Zealand | Semi-Final 1 | Match Highlights | CWC23
+    - time: 15 November, 2024
+  - link "ICC Cricket World Cup, 2023 South Africa v Australia | Semi-Final 2 | Match Highlights | CWC23 15 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/south-africa-v-australia-semi-final-2-match-highlights-cwc23
+    - figure:
+      - img "icc-world-cup-2023-story-b1de96ed-62a9-4d14-aebd-8d6e9f87e6c8"
+    - generic: ICC Cricket World Cup, 2023
+    - paragraph: South Africa v Australia | Semi-Final 2 | Match Highlights | CWC23
+    - time: 15 November, 2024
+  - link "ICC Cricket World Cup, 2023 India score 410 against Netherlands | CWC23 12 November, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/india-score-414-against-netherlands-cwc23
+    - figure:
+      - img "icc-world-cup-2023-story-8f2c4834-30ce-454b-bec3-255c996547d1"
+    - generic: ICC Cricket World Cup, 2023
+    - paragraph: India score 410 against Netherlands | CWC23
+    - time: 12 November, 2024
+  - link "ICC Cricket World Cup, 2023 Power Performances presented by Aramco | Episode 3 | CWC 2023 19 August, 2024":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/power-performances-presented-by-aramco-episode-3-cwc-2023
+    - figure:
+      - img "vlcsnap-2024-08-19-13h59m34s364"
+    - generic: ICC Cricket World Cup, 2023
+    - paragraph: Power Performances presented by Aramco | Episode 3 | CWC 2023
+    - time: 19 August, 2024
+  - link "Cricket World Cup Best of KL Rahul | CWC23 22 December, 2023":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/best-of-kl-rahul-cwc23-x2352
+    - figure:
+      - img "3876cf44-fb32-4e78-97c0-3c15e80540a2@thumbnail"
+    - generic: Cricket World Cup
+    - paragraph: Best of KL Rahul | CWC23
+    - time: 22 December, 2023
+  - link "Cricket World Cup Every Mitchell Santner wicket | CWC23 22 December, 2023":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/every-mitchell-santner-wicket-cwc23-x3114
+    - figure:
+      - img "0b91b87f-601f-4600-800b-dd59f5932753@thumbnail"
+    - generic: Cricket World Cup
+    - paragraph: Every Mitchell Santner wicket | CWC23
+    - time: 22 December, 2023
+  - link "Cricket World Cup Every Mohammed Shami wicket | CWC23 22 December, 2023":
+    - /url: https://www.icc-cricket.com/tournaments/cricketworldcup/videos/every-mohammed-shami-wicket-cwc23-x7089
+    - figure:
+      - img "8a18bbbc-5bee-4d63-8052-eec76bcef2d0@thumbnail"
+    - generic: Cricket World Cup
+    - paragraph: Every Mohammed Shami wicket | CWC23
+    - time: 22 December, 2023
+  - text: prev next
+  - button "1"
+  - button "2"
+  - button "3"
+  - button "4"
+  - button "5"
+  - button "6"
+  - button "7"
+- contentinfo:
+  - link "star-sports-dark":
+    - /url: https://www.hotstar.com/
+    - img "star-sports-dark"
+  - link "disney-hotstar":
+    - /url: https://www.jiostar.com/
+    - img "disney-hotstar"
+  - heading [level=4]
+  - link "sky-sports-x7480":
+    - /url: https://www.skysports.com/
+    - img "sky-sports-x7480"
+  - link "super-sport-dark":
+    - /url: https://supersport.com/
+    - img "super-sport-dark"
+  - link "willow-dark":
+    - /url: https://www.willow.tv/
+    - img "willow-dark"
+  - link "prime-video-dark":
+    - /url: https://www.primevideo.com/
+    - img "prime-video-dark"
+  - link "criclife":
+    - /url: https://starzplay.com/en/addon/cricket
+    - img "criclife"
+  - heading [level=4]
+  - link "myco":
+    - /url: https://myco.io/
+    - img "myco"
+  - link "ptvsports-dark":
+    - /url: https://myco.io/
+    - img "ptvsports-dark"
+  - link "espn-dark":
+    - /url: https://www.espn.com/
+    - img "espn-dark"
+  - link "sky-dark":
+    - /url: https://www.sky.co.nz/
+    - img "sky-dark"
+  - link "tsm-dark-background":
+    - /url: https://www.icc-cricket.com/
+    - img "tsm-dark-background"
+  - link "dialog":
+    - /url: https://www.dialog.lk/dialog-television
+    - img "dialog"
+  - link "icc-tv-dark":
+    - /url: https://icc.tv/
+    - img "icc-tv-dark"
+  - heading "Broadcast Partners" [level=4]
+  - link "emirates":
+    - /url: https://www.emirates.com/english/book/
+    - img "emirates"
+  - link "aramco":
+    - /url: https://www.aramco.com/
+    - img "aramco"
+  - link "dp-world-x1422":
+    - /url: https://www.dpworld.com/
+    - img "dp-world-x1422"
+  - link "hyundai-light":
+    - /url: https://www.hyundai.com
+    - img "hyundai-light"
+  - heading "Premier Partners" [level=4]
+  - link "coca-cola":
+    - /url: https://www.coca-colacompany.com/
+    - img "coca-cola"
+  - link "sobha-x2752":
+    - /url: https://www.sobharealty.com/
+    - img "sobha-x2752"
+  - link "budweiser-logo-dark-bg":
+    - /url: http://budweiser.com/
+    - img "budweiser-logo-dark-bg"
+  - link "marriott":
+    - /url: https://www.marriott.com/
+    - img "marriott"
+  - link "google-x7357":
+    - /url: https://www.google.com/
+    - img "google-x7357"
+  - heading "Global Partners" [level=4]
+  - link "dark-royal-stag":
+    - /url: https://www.royalstagfan.com/
+    - img "dark-royal-stag"
+  - heading "official supporters" [level=4]
+  - link "cricket4good-dark":
+    - /url: https://www.icc-cricket.com/about/the-icc/cricket-for-good
+    - img "cricket4good-dark"
+  - heading "social responsibility" [level=4]
+  - link "facebook social icon":
+    - /url: https://www.facebook.com/icc
+  - link "youtube social icon":
+    - /url: https://www.youtube.com/@ICC
+  - link "instagram social icon":
+    - /url: https://www.Instagram.com/icc/
+  - link "twitter social icon":
+    - /url: https://x.com/ICC
+  - navigation:
+    - link "terms-of-service":
+      - /url: /about/the-icc/legal-notices/website-terms-of-use
+      - generic: Terms of Service
+    - link "privacy-policy":
+      - /url: /about/the-icc/legal-notices/privacy-policy
+      - generic: Privacy Policy
+    - link "careers":
+      - /url: /about/the-icc/working-at-icc/jobs-and-recruitment
+      - generic: Careers
+    - link "related-sites":
+      - /url: /about/contact-us/social-media
+      - generic: Related Sites
+    - link "about":
+      - /url: /about/index
+      - generic: about
+    - button "cookie-preferences":
+      - generic: Cookie Preferences
+  - link "ICC logo footer":
+    - /url: https://www.icc-cricket.com/index
+    - img "ICC logo footer"
+  - generic: Copyright 2025 ICC. All rights reserved.
+- region "Notifications Alt+T"
+- alert

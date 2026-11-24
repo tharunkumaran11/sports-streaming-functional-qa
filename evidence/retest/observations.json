@@ -1,0 +1,1601 @@
+[
+  {
+    "asset": "C01",
+    "label": "loading",
+    "utc": "2026-11-24T10:01:16.342Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 18.082262,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "pause",
+    "utc": "2026-11-24T10:01:17.061Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 18.732649,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "pause_stable",
+    "utc": "2026-11-24T10:01:25.789Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 18.732649,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "resume",
+    "utc": "2026-11-24T10:01:32.840Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 18.938509,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "seek_forward",
+    "utc": "2026-11-24T10:01:33.293Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 432,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 29.191828,
+        "width": 768
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "seek_back",
+    "utc": "2026-11-24T10:01:33.794Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 19.447956,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "fullscreen_dom",
+    "utc": "2026-11-24T10:01:34.580Z",
+    "fullscreen": false
+  },
+  {
+    "asset": "C01",
+    "label": "fullscreen",
+    "utc": "2026-11-24T10:01:34.698Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 576,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 20.353929,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "exit_fullscreen_dom",
+    "utc": "2026-11-24T10:01:54.137Z",
+    "fullscreen": false
+  },
+  {
+    "asset": "C01",
+    "label": "exit_fullscreen",
+    "utc": "2026-11-24T10:01:54.234Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 288,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 39.888149,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "unmute",
+    "utc": "2026-11-24T10:01:54.968Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 288,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 40.589374,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mute",
+    "utc": "2026-11-24T10:01:55.416Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 288,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 40.825685,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "visual_middle",
+    "utc": "2026-11-24T10:02:14.353Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 288,
+        "muted": true,
+        "paused": false,
+        "ready": 1,
+        "time": 100.913913,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "visual_middle_ready",
+    "utc": "2026-11-24T10:02:20.042Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 288,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 106.066207,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "visual_end",
+    "utc": "2026-11-24T10:02:51.798Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 360,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 200.4,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mobile_layout",
+    "utc": "2026-11-24T10:02:57.058Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 360,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 200.4,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mobile_top",
+    "utc": "2026-11-24T10:03:02.443Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 360,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 200.4,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mobile_play",
+    "utc": "2026-11-24T10:03:10.407Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 360,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 200.441806,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mobile_seek",
+    "utc": "2026-11-24T10:03:10.942Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 432,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 190.696556,
+        "width": 768
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "mobile_pause",
+    "utc": "2026-11-24T10:03:11.426Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 432,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 191.107145,
+        "width": 768
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "loading",
+    "utc": "2026-11-24T10:03:25.986Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 288,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 4.094796,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "pause",
+    "utc": "2026-11-24T10:03:42.392Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 20.410708,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "pause_stable",
+    "utc": "2026-11-24T10:03:53.369Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 20.410708,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "resume",
+    "utc": "2026-11-24T10:03:53.834Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 20.752669,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "seek_forward",
+    "utc": "2026-11-24T10:03:54.342Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 31.004051,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "seek_back",
+    "utc": "2026-11-24T10:03:54.827Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 21.221929,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "fullscreen",
+    "utc": "2026-11-24T10:03:55.684Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 22.063449,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "exit_fullscreen",
+    "utc": "2026-11-24T10:04:05.565Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 31.945536,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "mute",
+    "utc": "2026-11-24T10:04:06.174Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 32.570803,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "unmute",
+    "utc": "2026-11-24T10:04:06.527Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 32.908326,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "visual_middle",
+    "utc": "2026-11-24T10:04:15.484Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 1,
+        "time": 113.601464,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "visual_middle_seek",
+    "utc": "2026-11-24T10:04:42.598Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 1,
+        "time": 285.752782,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "visual_middle_ready",
+    "utc": "2026-11-24T10:04:49.913Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 285.752782,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "visual_end_seek",
+    "utc": "2026-11-24T10:04:52.181Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 516.385738,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "visual_end",
+    "utc": "2026-11-24T10:04:57.583Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 516.385738,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "fullscreen_native",
+    "utc": "2026-11-24T10:04:59.524Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 516.385738,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "mobile_play",
+    "utc": "2026-11-24T10:05:08.226Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 516.422949,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "mobile_seek",
+    "utc": "2026-11-24T10:05:08.743Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 1,
+        "time": 506.604009,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "mobile_pause",
+    "utc": "2026-11-24T10:05:09.426Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 506.674236,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "loading",
+    "utc": "2026-11-24T10:05:16.421Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 0.030428,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "pause",
+    "utc": "2026-11-24T10:05:17.001Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 0.463348,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "pause_stable",
+    "utc": "2026-11-24T10:05:24.753Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 0.463348,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "resume",
+    "utc": "2026-11-24T10:05:25.197Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 0.769178,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "seek_forward",
+    "utc": "2026-11-24T10:05:25.683Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 10.994587,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "seek_back",
+    "utc": "2026-11-24T10:05:26.162Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 1.190139,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "fullscreen",
+    "utc": "2026-11-24T10:05:27.013Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 2.017825,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "exit_fullscreen",
+    "utc": "2026-11-24T10:05:27.512Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 2.51605,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "mute",
+    "utc": "2026-11-24T10:05:28.131Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 3.153738,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "unmute",
+    "utc": "2026-11-24T10:05:29.202Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 4.135784,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "visual_middle_ready",
+    "utc": "2026-11-24T10:05:36.673Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 169.566722,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "visual_end_seek",
+    "utc": "2026-11-24T10:05:43.900Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 298.352093,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "visual_end",
+    "utc": "2026-11-24T10:05:51.905Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 306.356611,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "mobile_pause",
+    "utc": "2026-11-24T10:05:52.848Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 307.21226,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "mobile_play",
+    "utc": "2026-11-24T10:05:53.318Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 307.524844,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "mobile_seek",
+    "utc": "2026-11-24T10:05:53.860Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 297.861008,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "loading",
+    "utc": "2026-11-24T10:06:12.973Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.1936666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 9.581177,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "pause",
+    "utc": "2026-11-24T10:06:13.539Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.1936666,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 10.060328,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "pause_stable",
+    "utc": "2026-11-24T10:06:21.242Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.1936666,
+        "height": 1080,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 10.060328,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "resume",
+    "utc": "2026-11-24T10:06:21.696Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.1936666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 10.384485,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "seek_forward",
+    "utc": "2026-11-24T10:06:22.206Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 576,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 20.60093,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "seek_back",
+    "utc": "2026-11-24T10:06:22.713Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 10.800597,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "fullscreen",
+    "utc": "2026-11-24T10:06:23.543Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 11.57242,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "exit_fullscreen",
+    "utc": "2026-11-24T10:06:24.022Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 12.051345,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "mute",
+    "utc": "2026-11-24T10:06:24.614Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 1080,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 12.679743,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "unmute",
+    "utc": "2026-11-24T10:06:24.966Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 13.015807,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "visual_middle_ready",
+    "utc": "2026-11-24T10:06:30.379Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 720,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 16.085168,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "visual_end_seek",
+    "utc": "2026-11-24T10:06:32.541Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 576,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 27.193666,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "visual_end",
+    "utc": "2026-11-24T10:06:38.634Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 576,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 27.193666,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "mobile_play",
+    "utc": "2026-11-24T10:06:39.503Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 576,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 27.236008,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "mobile_seek",
+    "utc": "2026-11-24T10:06:40.023Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 720,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 17.485771,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "mobile_pause",
+    "utc": "2026-11-24T10:06:40.513Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.193666,
+        "height": 720,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 17.894676,
+        "width": 1280
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "loading",
+    "utc": "2026-11-24T10:06:53.886Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 576,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 3.735761,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "pause",
+    "utc": "2026-11-24T10:06:54.579Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 576,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 4.304466,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "pause_stable",
+    "utc": "2026-11-24T10:07:02.551Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 576,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 4.304466,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "resume",
+    "utc": "2026-11-24T10:07:02.983Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 576,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 4.593452,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "seek_forward",
+    "utc": "2026-11-24T10:07:03.507Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 14.860034,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "seek_back",
+    "utc": "2026-11-24T10:07:03.983Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 576,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 5.048127,
+        "width": 1024
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "fullscreen",
+    "utc": "2026-11-24T10:07:04.816Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 5.843542,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "exit_fullscreen",
+    "utc": "2026-11-24T10:07:05.277Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 6.304335,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "mute",
+    "utc": "2026-11-24T10:07:05.889Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 6.947665,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "unmute",
+    "utc": "2026-11-24T10:07:06.253Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 7.301144,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "visual_middle_ready",
+    "utc": "2026-11-24T10:07:12.239Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 14.58942,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "visual_end_seek",
+    "utc": "2026-11-24T10:07:14.612Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 288,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 24.2,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "visual_end",
+    "utc": "2026-11-24T10:07:24.675Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 288,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 24.2,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "mobile_play",
+    "utc": "2026-11-24T10:07:25.605Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 288,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 24.235105,
+        "width": 512
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "mobile_seek",
+    "utc": "2026-11-24T10:07:26.139Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": true,
+        "paused": false,
+        "ready": 4,
+        "time": 14.489794,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "mobile_pause",
+    "utc": "2026-11-24T10:07:26.623Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": true,
+        "paused": true,
+        "ready": 4,
+        "time": 14.890633,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "volume_mid",
+    "utc": "2026-11-24T10:07:38.053Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/unbelievable-catch-from-sky-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 29.2,
+        "height": 360,
+        "muted": false,
+        "paused": true,
+        "ready": 4,
+        "time": 14.890633,
+        "width": 640
+      }
+    ]
+  },
+  {
+    "asset": "C05",
+    "label": "volume_ui",
+    "utc": "2026-11-24T10:07:48.734Z",
+    "sliders": [
+      {
+        "label": "00:00:00/00:00:00",
+        "value": null
+      },
+      {
+        "label": "0.4976439703078497",
+        "value": null
+      }
+    ],
+    "snapshot": "\n  - slider \"00:00:00/00:00:00\"\n  - button \"-10\":\n    - generic \"-10\": \"10\"\n  - button \"Play\":\n  - button \"+10\":\n    - generic \"+10\": \"10\"\n  - button \"Mute\":\n  - slider \"0.4976439703078497\"\n  - generic: 00:00:14 / 00:00:29\n  - button \"Settings\":\n  - button \"Enter pip mode\":\n  - button \"Chromecast\"\n  - button \"Full Screen\":\n  - generic: Unbelievable catch from SKY | SA v IND | T20WC 2024 Final\n  - paragraph: ICC Men's T20 World Cup, 2024\n  - button \"Share\":\n    - paragraph: Share\n  - heading \"Unbelievable catch from SKY | SA v IND | T20WC 2024 Final\" [level=1]\n  - time: 29 June, 2024\n  "
+  },
+  {
+    "asset": "C01",
+    "label": "volume_mid",
+    "utc": "2026-11-24T10:08:13.984Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 19.078389,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "loading_recheck",
+    "utc": "2026-11-24T10:08:14.169Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/kohli-delivers-in-his-final-t20i-potm-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 205.4,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 19.263717,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C01",
+    "label": "volume_ui",
+    "utc": "2026-11-24T10:08:14.300Z",
+    "snapshot": "\n  - slider \"00:00:00/00:00:00\"\n  - button \"-10\":\n    - generic \"-10\": \"10\"\n  - button \"Pause\":\n  - button \"+10\":\n    - generic \"+10\": \"10\"\n  - button \"Mute\":\n  - slider \"0.5\"\n  - generic: 00:00:19 / 00:03:25\n  - button \"Settings\":\n  - button \"Enter pip mode\":\n  - button \"Chromecast\"\n  - button \"Full Screen\":\n  - generic: Kohli delivers in his final T20I | POTM highlights | SA v IND | T20WC 2024 Final\n  - paragraph: ICC Men's T20 World Cup, 2024\n  - button \"Share\":\n    - paragraph: Share\n  - heading \"Kohli delivers in his final T20I | POTM highlights | SA v IND | T20WC 2024 Final\" [level=1]\n  - time: 30 June, 2024\n  "
+  },
+  {
+    "asset": "C02",
+    "label": "volume_mid",
+    "utc": "2026-11-24T10:08:30.562Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-win-their-second-t20-world-cup-title-extended-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 571.92,
+        "height": 432,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 8.7749,
+        "width": 768
+      }
+    ]
+  },
+  {
+    "asset": "C02",
+    "label": "volume_ui",
+    "utc": "2026-11-24T10:08:30.658Z",
+    "snapshot": "\n  - slider \"00:00:00/00:00:00\"\n  - button \"-10\":\n    - generic \"-10\": \"10\"\n  - button \"Pause\":\n  - button \"+10\":\n    - generic \"+10\": \"10\"\n  - button \"Mute\":\n  - slider \"0.5\"\n  - generic: 00:00:08 / 00:09:31\n  - button \"Settings\":\n  - button \"Enter pip mode\":\n  - button \"Chromecast\"\n  - button \"Full Screen\":\n  - generic: India win their second T20 World Cup title | Extended Highlights | SA v IND | T20WC 2024 Final\n  - paragraph: ICC Men's T20 World Cup, 2024\n  - button \"Share\":\n    - paragraph: Share\n  - heading \"India win their second T20 World Cup title | Extended Highlights | SA v IND | T20WC 2024 Final\" [level=1]\n  - time: 30 June, 2024\n  "
+  },
+  {
+    "asset": "C03",
+    "label": "volume_mid",
+    "utc": "2026-11-24T10:08:43.366Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/india-script-stunning-title-win-match-highlights-sa-v-ind-t20wc-2024-final",
+    "media": [
+      {
+        "duration": 329.08,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 7.410284,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C03",
+    "label": "volume_ui",
+    "utc": "2026-11-24T10:08:43.454Z",
+    "snapshot": "\n  - slider \"00:00:00/00:00:00\"\n  - button \"-10\":\n    - generic \"-10\": \"10\"\n  - button \"Pause\":\n  - button \"+10\":\n    - generic \"+10\": \"10\"\n  - button \"Mute\":\n  - slider \"0.5\"\n  - generic: 00:00:07 / 00:05:29\n  - button \"Settings\":\n  - button \"Enter pip mode\":\n  - button \"Chromecast\"\n  - button \"Full Screen\":\n  - generic: India script stunning title win | Match Highlights | SA v IND | T20WC 2024 Final\n  - paragraph: ICC Men's T20 World Cup, 2024\n  - button \"Share\":\n    - paragraph: Share\n  - heading \"India script stunning title win | Match Highlights | SA v IND | T20WC 2024 Final\" [level=1]\n  - time: 30 June, 2024\n  "
+  },
+  {
+    "asset": "C10",
+    "label": "volume_mid",
+    "utc": "2026-11-24T10:08:53.019Z",
+    "url": "https://www.icc-cricket.com/tournaments/t20cricketworldcup/videos/quinton-kock-wicket-south-africa-vs-india",
+    "media": [
+      {
+        "duration": 32.1936666,
+        "height": 1080,
+        "muted": false,
+        "paused": false,
+        "ready": 4,
+        "time": 4.318681,
+        "width": 1920
+      }
+    ]
+  },
+  {
+    "asset": "C10",
+    "label": "volume_ui",
+    "utc": "2026-11-24T10:08:53.120Z",
+    "snapshot": "\n  - slider \"00:00:00/00:00:00\"\n  - button \"-10\":\n    - generic \"-10\": \"10\"\n  - button \"Pause\":\n  - button \"+10\":\n    - generic \"+10\": \"10\"\n  - button \"Mute\":\n  - slider \"0.5\"\n  - generic: 00:00:04 / 00:00:32\n  - button \"Settings\":\n  - button \"Enter pip mode\":\n  - button \"Chromecast\"\n  - button \"Full Screen\":\n  - generic: Quinton Kock - Wicket - South Africa vs India\n  - paragraph: Wickets\n  - button \"Share\":\n    - paragraph: Share\n  - heading \"Quinton Kock - Wicket - South Africa vs India\" [level=1]\n  - time: 29 June, 2024\n  "
+  }
+]
